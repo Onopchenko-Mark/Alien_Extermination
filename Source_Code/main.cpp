@@ -1,3 +1,8 @@
+/*
+* @author Mark Onopchenko
+* Date: 2022-12-31
+*/
+
 #define NOMINMAX
 #include <windows.h>
 #include <string>
