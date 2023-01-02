@@ -10,7 +10,7 @@
 
 int main()
 {
-    //Initizlize Random
+    //Initialize Random
     std::srand(static_cast<unsigned>(time(NULL)));
 
     std::cout <<
